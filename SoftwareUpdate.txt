@@ -1,1 +1,1 @@
-Optimize TFJS export on ARM64 (#8946)
+Improve Coral Edge TPU guide (#8160)
