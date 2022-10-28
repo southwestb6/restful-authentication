@@ -1,1 +1,1 @@
-Add Roboflow 100 Dataset Docs Page (#8065)
+fix for predicting with batch_size > 1 (#47)
