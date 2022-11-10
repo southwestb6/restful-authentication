@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Pass callbacks to validator (#7320)
