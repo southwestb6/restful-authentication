@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Avoid creating -hub dir without processing images (#8334)
