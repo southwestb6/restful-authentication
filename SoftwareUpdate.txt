@@ -1,1 +1,1 @@
-ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
