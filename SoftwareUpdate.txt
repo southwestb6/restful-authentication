@@ -1,1 +1,1 @@
-Fix an issue with flatbuffer version for Raspberry Pi (#8311)
+Elaborate Train and Predict mode docs arguments (#8137)
