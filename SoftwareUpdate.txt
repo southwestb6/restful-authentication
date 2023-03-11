@@ -1,1 +1,1 @@
-ultralytics 8.1.2 scope HUB-SDK imports (#7596)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
