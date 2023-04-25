@@ -1,1 +1,1 @@
-Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
