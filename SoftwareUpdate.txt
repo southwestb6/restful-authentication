@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Compare plt.get_backend() in lowercase (#8409)
