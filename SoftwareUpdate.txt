@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Updated SQL Query Plot Code (#8120)
