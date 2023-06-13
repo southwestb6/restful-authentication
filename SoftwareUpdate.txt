@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
