@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
