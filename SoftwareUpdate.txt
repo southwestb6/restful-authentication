@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Add Neural Magic Docs integrations page (#7234)
