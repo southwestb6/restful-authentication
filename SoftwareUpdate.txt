@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Update Docs Home and Neural Magic pages (#7243)
