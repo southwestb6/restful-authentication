@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+YOLOv8 INT8 TFLite Inference Example (#7317)
