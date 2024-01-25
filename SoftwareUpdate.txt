@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+TensorRT FP16 export with dynamic=True (#7870)
