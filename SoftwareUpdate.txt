@@ -1,1 +1,1 @@
-Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
+Update Colab notebook for YOLOv8.1 (#8660)
