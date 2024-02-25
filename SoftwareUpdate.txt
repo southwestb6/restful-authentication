@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Docs partial mdformat improvements (#7378)
