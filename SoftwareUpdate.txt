@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+YOLOv8 INT8 TFLite Inference Example (#7317)
