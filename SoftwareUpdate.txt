@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
