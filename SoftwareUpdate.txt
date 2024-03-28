@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Bounding Box to OBB conversion (#7572)
